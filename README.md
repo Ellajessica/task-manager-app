@@ -138,8 +138,8 @@ DB_NAME=task_manager
 DB_USER=postgres
 DB_PASSWORD=password
 DB_HOST=localhost
-EMAIL_HOST_USER=your-email@gmail.com
-EMAIL_HOST_PASSWORD=your-app-password
+EMAIL_HOST_USER
+EMAIL_HOST_PASSWORD
 REDIS_URL=redis://localhost:6379/0
 \`\`\`
 
@@ -228,7 +228,7 @@ MIT
 For issues and questions:
 1. Check existing GitHub issues
 2. Create a new issue with detailed description
-3. Contact: support@taskmanager.com
+3. Contact: emmanuellachinenye767@gmail.com
 
 ## Roadmap
 
@@ -247,3 +247,7 @@ For issues and questions:
 - React and Next.js communities
 - Tailwind CSS
 - All contributors
+
+  
+## Author
+Built with ❤️ by [Ella Jessica](https://github.com/ellajessica)

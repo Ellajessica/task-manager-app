@@ -28,12 +28,13 @@
     "tailwindcss": "^4.1.9",
     "tailwindcss-animate": "^1.0.7",
     "tw-animate-css": "latest"
+    "postcss": "^8.5",
+    "autoprefixer": "^10.4.0"
   },
   "devDependencies": {
     "@types/node": "^22",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
-    "postcss": "^8.5",
     "typescript": "^5"
   }
 }

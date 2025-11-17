@@ -14,6 +14,7 @@
     "@radix-ui/react-label": "latest",
     "@radix-ui/react-slot": "latest",
     "@tanstack/react-query": "latest",
+    "autoprefixer": "^10.4.0",
     "axios": "latest",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
@@ -21,21 +22,20 @@
     "lucide-react": "^0.454.0",
     "next": "^16.0.0",
     "next-themes": "latest",
+    "postcss": "^8.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "sonner": "latest",
     "tailwind-merge": "^2.5.5",
     "tailwindcss": "^4.1.9",
     "tailwindcss-animate": "^1.0.7",
-    "tw-animate-css": "latest",
-    "postcss": "^8.5",
-    "autoprefixer": "^10.4.0"
+    "tw-animate-css": "latest"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.17",
     "@types/node": "^22",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
     "typescript": "^5"
   }
 }
-
